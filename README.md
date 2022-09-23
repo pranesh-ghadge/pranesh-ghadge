@@ -16,7 +16,7 @@ Data Science, Data Analytics, Machine Learning, Web Development
 
 - OpenCV, Scikit-Learn, Keras, Plotly, Seaborn, Numpy, Pandas  
 - Statistics and Probability, Data Visualization, Exploratory Data Analysis(EDA), Computer Vision
-- SQL, DSA, Problem Solving, Competitive Programming, Git
+- SQL, DBMS, DSA, Problem Solving, Competitive Programming, Git
 
 
 ## 🔗 Links
