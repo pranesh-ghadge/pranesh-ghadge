@@ -16,7 +16,7 @@ Data Science, Data Analytics, Machine Learning, Web Development
 
 - OpenCV, Scikit-Learn, Keras, Tensorflow, Plotly, Seaborn 
 - Data Visualization, Computer Vision, Recommendation Systems, Time Series Analysis
-- SQL, DBMS, DSA, Problem Solving, Competitive Programming, Git
+- SQL, DBMS, DSA, Problem Solving, Competitive Programming
 
 
 ## 🔗 Links
