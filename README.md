@@ -14,8 +14,8 @@ Data Science, Data Analytics, Machine Learning, Web Development
 - HTML, CSS, JavaScript, PHP, Flask
 - Jupyter Notebook, Power BI, Microsoft Excel
 
-- OpenCV, Scikit-Learn, Keras, Plotly, Seaborn, Numpy, Pandas  
-- Statistics and Probability, Data Visualization, Exploratory Data Analysis(EDA), Computer Vision
+- OpenCV, Scikit-Learn, Keras, Tensorflow, Plotly, Seaborn, Numpy, Pandas  
+- Data Visualization, Computer Vision, Recommendation Systems, Time Series Analysis
 - SQL, DBMS, DSA, Problem Solving, Competitive Programming, Git
 
 
